@@ -12,6 +12,7 @@ div[id="1"] {
   background-image: url(../images/h_img.jpg);
   background-position: center;
   background-size: 100%,100%;
+  background-repeat: no-repeat;
 }
 img[id="im1"] {
   margin-left: 46%;
@@ -29,4 +30,12 @@ div {
 div[id="3"] {
   background-image: url(../images/s_image.jpg);
   background-size: 100%,100%;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+div[id="4"] {
+  background-image: url(../images/c_image.jpg);
+  background-size: 100%,100%;
+  background-repeat: no-repeat;
+  text-align: center;
 }
