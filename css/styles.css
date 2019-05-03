@@ -9,10 +9,10 @@ p {
 }
 div[id="1"] {
   background-image: url(../images/h_img.jpg);
-  background-repeat: no-repeat;
+  background-position: center;
 }
 img[id="im1"] {
-  margin-left: 47%;
+  margin-left: 46%;
   margin-top: 10%;
 }
 img[id="im2"] {
