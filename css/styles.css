@@ -57,3 +57,14 @@ input[id="email"] {
 div[id="social"] {
   margin-left: 35%;
 }
+img[id="right"] {
+  float: right;
+  margin-right: 15%;
+}
+img[id="middle"] {
+  margin-left: 25%;
+  
+}
+img[id="left"] {
+  margin-left: 15%;
+}
