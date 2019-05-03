@@ -1,5 +1,10 @@
-div[class="container"] {
-  position: relative;
+h1 {
   text-align: center;
-  width: 200%;
+}
+p {
+  text-align: center;
+}
+div {
+  background-image: url(../images/h_img.jpg);
+  background-size: auto;
 }
