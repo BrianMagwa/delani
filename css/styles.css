@@ -11,6 +11,7 @@ p {
 div[id="1"] {
   background-image: url(../images/h_img.jpg);
   background-position: center;
+  background-size: 100%,100%;
 }
 img[id="im1"] {
   margin-left: 46%;
@@ -20,11 +21,12 @@ img[id="im1"] {
 img[id="im2"] {
   margin-left: 49%;
   margin-top: 10%;
-  margin-bottom: 2%;
+  margin-bottom: 5%;
 }
 div {
   margin-bottom: 2%;
 }
 div[id="3"] {
   background-image: url(../images/s_image.jpg);
+  background-size: 100%,100%;
 }
