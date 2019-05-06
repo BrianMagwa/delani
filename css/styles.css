@@ -64,20 +64,34 @@ input[id="email"] {
 div[id="social"] {
   margin-left: 35%;
 }
-img[id="right"] {
-  float: right;
-  margin-right: 15%;
-}
-img[id="middle"] {
-  margin-left: 25%;
-  
-}
-img[id="left"] {
+div[id=design] {
   margin-left: 15%;
+}
+div[id=development] {
+  margin-left: 45%;
+}
+div[id=product] {
+  margin-left: 85%;
 }
 div[id="im1"] {
   width: 100%;
 }
 div[id="im2"] {
   width: 100%;
+}
+p[id="pl"] {
+  text-align: center;
+  display: none;
+}
+.design-hidden {
+  display: none;
+}
+.development-hidden {
+  display: none;
+}
+.product-hidden {
+  display: none;
+}
+.col-lg-3:hover {
+  opacity: 0.3;
 }
