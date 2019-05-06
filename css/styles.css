@@ -94,9 +94,9 @@ p[id="pl"] {
 .product-hidden {
   display: none;
 }
-.col-lg-3:hover {
+.col-md-3:hover {
   opacity: 0.3;
 }
-div[id="wedo"] {
-  
+.col-md-3 img {
+  width: 210px;
 }
